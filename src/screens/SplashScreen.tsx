@@ -137,7 +137,7 @@ export function SplashScreen({ onFinish }: Props) {
 
       {/* Subtitle */}
       <Animated.Text style={[styles.subtitle, { opacity: subtitleOpacity }]}>
-        ⬡ POWERED BY SOLANA
+        🎲 DICE DUEL
       </Animated.Text>
 
       {/* Bottom tagline */}

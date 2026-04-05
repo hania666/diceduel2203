@@ -16,15 +16,15 @@ export function HomeScreen() {
         style={{ fontWeight: "bold", marginBottom: 12 }}
         variant="displaySmall"
       >
-        Solana Mobile Expo Template
+        Dice Duel
       </Text>
       {selectedAccount ? (
         <AccountDetailFeature />
       ) : (
         <>
           <Section
-            title="Solana SDKs"
-            description="Configured with Solana SDKs like Mobile Wallet Adapter and web3.js."
+            title="Game Features"
+            description="Configured with Game Features like Mobile Wallet Adapter and web3.js."
           />
           <Section
             title="UI Kit and Navigation"
