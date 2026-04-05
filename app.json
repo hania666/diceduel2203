@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Dice Duel",
-    "slug": "dice-duel",
+    "slug": "solana-mobile-expo-template",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,7 +23,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.hania666.diceduel"
+      "package": "com.diceduel.game"
     },
     "web": {
       "favicon": "./assets/favicon.png"
